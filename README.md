@@ -5,7 +5,7 @@ To create a modified version of **classic 0.30**, you need the following: *JDK* 
 
 # Creating a version and running the modified client:
 
-You need to unpack the '1MinecraftSRC.zip' file using any archiver and rename the folder to src. Next, you need to make changes to the code. Then, to create a modified version, open 'BUILD.bat' using the Command Port and enter the name of the 'jar' file, then press Enter. To open your client, open 'SMC.bat' and enter the name of the client. If you want to compile and test the version immediately, open 'BAS.bat' and enter the name of the 'jar' file. The version will launch immediately if the client is successfully compiled.
+You need to unpack the `1MinecraftSRC.zip` file using any archiver and rename the folder to src. Next, you need to make changes to the code. Then, to create a modified version, open `BUILD.bat` using the Command Port and enter the name of the `jar` file, then press Enter. To open your client, open `SMC.bat` and enter the name of the client. If you want to compile and test the version immediately, open `BAS.bat` and enter the name of the `jar` file. The version will launch immediately if the client is successfully compiled.
 
 # Links to authors:
 
